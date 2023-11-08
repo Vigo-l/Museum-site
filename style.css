@@ -40,7 +40,7 @@ body {
 #artwork {
     float: left;
     width: 800px;
-    margin-right: 15px;
+    margin-right: 40px;
 }
 
 #title {
@@ -59,3 +59,10 @@ body {
     font-family: 'Karla', sans-serif;
     font-size: 65px;
 }
+.zoom {
+    transition: transform .2s;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1);
+  }
