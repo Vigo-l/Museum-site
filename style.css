@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(169, 148, 227);
+    margin: 0 auto;
+    font-family: sans-serif, Arial, helvetica;
+}
+
+
+#mainContainer {
+    background-color: rgb(89, 52, 191);
+}
+
+#firstArtist {
+    font-size: 75px;
+}
+
+#info {
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#navigation {
+    height: 30px;
+    padding: 30px;
+}
+
+#navigation a {
+    padding: 5px;
+    background-color: aquamarine;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#navigation a:hover {
+    background-color: rgb(70, 178, 142);
+}
