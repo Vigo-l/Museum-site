@@ -1,12 +1,7 @@
 body {
-    background-color: rgb(154, 154, 8);
     margin: 0 auto;
     font-family: sans-serif, Arial, helvetica;
-}
-
-
-#mainContainer {
-    background-color: rgb(154, 154, 8);
+    background-image: url("file:///C:/Users/Beheerder/Desktop/School/Leerjaar%201/Software%20development/Periode1/Museum%20site/Images/Background.png");
 }
 
 #firstArtist {
